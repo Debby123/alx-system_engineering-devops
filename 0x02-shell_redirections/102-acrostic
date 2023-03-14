@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ (cut -c 1 | -l -d "\n")
+echo $ (cut -cl 1 | -lr -d "\n")
